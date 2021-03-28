@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_Kahoot_lobby" : "Kahoot lobby",
+    "menu_jukebox_screen_kahoot_lobby" : "kahoot lobby"
+}
